@@ -14,6 +14,8 @@ SpringAOP进行日志处理
 
 SpringBoot DevTools 热部署
 
+MD5加密
+
 Markdown转HTML：[commonmark-java](https://github.com/atlassian/commonmark-java) 
 
 ## 页面插件集成：
